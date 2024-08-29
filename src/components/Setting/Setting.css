@@ -1,0 +1,23 @@
+.buttonsetting{
+    margin-left: 29%;
+}
+
+
+.profilesection{
+    transition: 2s;
+    /* margin-left: 13%; */
+}
+.profilesection:hover{
+    transform: translateX(1.1);
+}
+
+.verifyotp{
+    width: 350px;
+    margin-left: -8px;
+    
+}
+
+
+/* #verifybutton{
+    margin-left: 24%;
+} */
